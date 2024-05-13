@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @AlexSMFerreira
-- 👀 I’m interested in tech, coding and music
-- 🌱 I’m currently learning python and c# for game development
 - 📫 How to reach me: alexandre.smferreira@gmail.com
 
 <!---
